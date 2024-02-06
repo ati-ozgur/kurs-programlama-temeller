@@ -1,6 +1,13 @@
 # Yazılım Geliştirme Yaşam Döngüsü
 
+Yazılım veya Sistem Geliştirme Yaşam Döngüsü, bir sistemin başlangıçtan son aşamasına kadar olan ara süreçleri tanımlar.
+İlk önerilen şelale sisteminden sonra bir çok farklı yaşam döngüsü önerilmiştir.
+Bunlar arasında aşağıdakiler sayılabilir.
+
+- Şelale
+- sarmal
+- çevik yazılım geliştirme
+- hızlı prototip oluşturma
 
 
 
-systems development life cycle
