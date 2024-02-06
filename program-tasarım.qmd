@@ -44,7 +44,27 @@ Bu yaklaşım özellikle başlangıç programcıları için yararlıdır.
 
 ## Tasarım oluşturulması
 
-TODO
+
+Derslerdeki gibi programlarınız için akış şemalarına ve sahte kodlara ihtiyacınız olmayacaktır.
+Ama yazılımlarınız büyüdükçe daha karmaşık yapılara, daha fazla fonksiyon veya mödüle ihtiyacınız ihtiyacınız olacaktır.
+
+Benim açımdan yazdığım kodları hiç bir zaman sahte kod veya akış diagramı olarak düşünmedim.
+Genellikle yazmaya çalıştığım programlama dilinin temel yapılarından çok ilk öğrendiğim programlama dilleri olan basic ve assembler yapıları üzerinden düşündüm.
+Yani burada bir döngü, döngü içinde bir eğer (if) kontrolü olacak gibi.
+
+Ama akış diagramı ve sahte kod dizimleri makale ve dokümantasyondan tercih edilir çünkü farklı programlama dillerinin ortak noktası gibidirler.
+Bir programlama dilini orta seviye üstünde öğrendikten sonra sahte kod veya akış diagramlarını anlamak son derece kolaydır.
+
+Bu kitap içinde tasarım:
+
+  - kontrol yapılarının kullanılması, eğer..
+  - döngü yapılarının kullanılması
+  - fonksion kullanımı
+
+şeklinde düşünelebilir.
+
+
+
 
 ## Test verilerinin oluşturulması
 
