@@ -20,12 +20,26 @@ Burada analiz parçası problemin incelenmesi, kodlama bu inceleme sonrasında y
 
 Ama yazılım projeleri büyüdükçe daha tutarlı ve resmi bir döngü takip edilmesi gerekir.
 Bu döngülerden şelale aşağıdaki diagramda verilmiştir.
+Bu döngüdeki adımlar aşağıdaki gibidir.
+
+- Sistem gereksinimleri: Yazılımın çalışacağı işletim sistemi, donanım gibi diğer gereksinimlerin tanımlanması. Örneğin bir savunma sanayi yazılımında bu gereksinimler çok daha önemlidir. Bir oyun için örneğin mobil veya masaüstü desteği burada karar verilmelidir.
+
+- Yazılım gereksinimleri: Sistem gereksinimlerine göre yazılımın gereksinimlerinin yazılması
+
+- Analiz: Daha önceki iki sistem ve yazılım gereksinimlerinin incelenmesi ve doğrulanması adımdır.
+
+Bu ilk üç adım bazı yerlerde gereksinim analizi olarak aşağıdaki gibi birleştirilir.
+
+
+
+
+- Tasarım: Yazılımın 
 
 {{< include ./diagramlar/waterfall.mmd >}}
 
 
 Bu diagram'a şelale ismi daha sonradan verilmiştir.
-Bu diagram üzerinde geri dönüşler olmadığı için şelale ismi kullanılmaktadır ama bu döngüyü ile öneren makalede bile TODO Reference, geri dönüşler vardır.
+Bu diagram üzerinde geri dönüşler olmadığı için şelale ismi kullanılmaktadır ama bu döngüyü ile öneren makalede @Royce1987Managing bile, geri dönüşler vardır.
 Yani test sırasında bir hata olduğu görüldüğü zaman, daha önceki adımlara dönülmektedir.
 Bu diagram aşağıda görülebilir.
 
