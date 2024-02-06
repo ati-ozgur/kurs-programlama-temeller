@@ -10,6 +10,24 @@ Bunlar arasında aşağıdakiler sayılabilir.
 - hızlı prototip oluşturma
 
 
+Küçük yazılımlar aşağıdaki iki adımdan oluşur.
+Bu kitapta çözeceğimiz tüm sorular ve herhangi bir derste öğreneceğiniz yazılımlar aşağıdaki iki adım yani analiz ve kodlama kullanarak çözülebilir.
+Burada analiz parçası problemin incelenmesi, kodlama bu inceleme sonrasında yazılan kodu içermektedir.
+
+
+{{< include ./diagramlar/analiz-kodlama.mmd >}}
+
+
+Ama yazılım projeleri büyüdükçe daha tutarlı ve resmi bir döngü takip edilmesi gerekir.
+Bu döngülerden şelale aşağıdaki diagramda verilmiştir.
+
 {{< include ./diagramlar/waterfall.mmd >}}
 
+
+Bu diagram'a şelale ismi daha sonradan verilmiştir.
+Bu diagram üzerinde geri dönüşler olmadığı için şelale ismi kullanılmaktadır ama bu döngüyü ile öneren makalede bile TODO Reference, geri dönüşler vardır.
+Yani test sırasında bir hata olduğu görüldüğü zaman, daha önceki adımlara dönülmektedir.
+Bu diagram aşağıda görülebilir.
+
 {{< include ./diagramlar/waterfall-real.mmd >}}
+
