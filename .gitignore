@@ -1,5 +1,6 @@
 /.quarto/
-
+_book/*
+*files/*
 *.sublime-workspace
 
 ## Core latex/pdflatex auxiliary files:
