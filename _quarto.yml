@@ -12,6 +12,7 @@ book:
     - intro.qmd
     - yazilim-gelistirme-yasam-dongusu.qmd
     - program-tasarım.qmd
+    - sahte-kod.qmd
     - summary.qmd
     - references.qmd
 
