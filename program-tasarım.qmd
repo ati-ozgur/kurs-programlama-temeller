@@ -40,5 +40,19 @@ olacaktır.
 - işleme: ekrana yaz
 - çıktı: merhaba Atilla
 
+Bu yaklaşım özellikle başlangıç programcıları için yararlıdır.
+
+## Tasarım oluşturulması
+
+TODO
+
+## Test verilerinin oluşturulması
+
+Test verisi programcının giriş değerlerinin vermesi ve sonuçların ne olacağını tahmin etmesidir.
+Her programcı yazdığı kodu test etmelidir.
+Basit programlar için bu bir kaç giriş değeri ile test etmekten ibaret olabilir.
+Daha karmaşık programlar için sınır değerleri ve karmaşık girişler ile test edilmesi yararlı olacaktır.
+Basit test için, bir çok programlama dilinde olan assert komutu bu aşama için yararlıdır.
+Daha iyi test için her programlama dilinde olan birim test kütüphaneleri (nunit,junit,pytest ...) kullanılabilir.
 
 
