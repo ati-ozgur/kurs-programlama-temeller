@@ -1,5 +1,6 @@
 /.quarto/
 _book/*
+site_libs/*
 *files/*
 *.sublime-workspace
 
