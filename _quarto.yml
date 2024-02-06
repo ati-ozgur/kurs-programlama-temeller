@@ -11,6 +11,7 @@ book:
     - index.qmd
     - intro.qmd
     - yazilim-gelistirme-yasam-dongusu.qmd
+    - program-tasarım.qmd
     - summary.qmd
     - references.qmd
 

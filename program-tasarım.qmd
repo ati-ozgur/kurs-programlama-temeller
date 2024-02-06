@@ -1,0 +1,44 @@
+# program tasarım
+
+## Genel Bakış
+
+Program tasarımı, kodlamaya başlamadan önce yapılması gereken adımlardan oluşur.
+Bu adımların doğru yapılması ve belgelenmesi, programın gelecekte daha kolay bir şekilde geliştirilmesini sağlayacaktır.
+Genel olarak, ders için yazdığımız programlarda bu adım ya atlanır yada çok kısa geçilir.
+Üç adım olarak düşünülür.
+
+1. Programı anlama
+2. Tasarım oluşturulması
+3. Test verilerinin oluşturulması
+
+
+
+## Programı Anlamak
+
+Eğer bir ders programı değil daha büyük bir projede çalışıyorsanız, sistemi gereksinim analizinin (sistem gereksinimleri, yazılım gereksinimleri, analiz) yapılmış olmalıdır.
+Bir yazılımcının yukarıdaki adımları yapabiliyor olması değerli bir özelliktir.
+Bu gereksinimler ekran protipleri, yazılı çalışma adımları vb. olabilir.
+Özellikle ekran protipleri çok yararlıdır.
+
+Eğer daha basit bir projede çalışıyorsanız veya bir ders programını yazıyorsanız.
+Programı anlama için aşağıdaki adımlar yeterli olacaktır.
+
+-     Girişler
+-     İşleme
+-     çıktılar
+
+Örneğin kullanıcıya adını sorma arkasından ekrana merhaba ad yazma için
+
+- girişler: Ad
+- işleme: ekrana yazma
+- çıktı: merhaba ad
+
+olacaktır.
+Örneğin:
+
+- girişler: Atilla
+- işleme: ekrana yaz
+- çıktı: merhaba Atilla
+
+
+
