@@ -3,8 +3,10 @@ project:
 
 book:
   title: "Programlama-temeller"
-  author: "Norah Jones"
-  date: "2/6/2024"
+  author: "Atilla Özgür"
+  date: today
+  date-format: "YYYY-MM-DD"
+  cover-image: cover.png
   chapters:
     - index.qmd
     - intro.qmd
