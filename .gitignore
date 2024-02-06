@@ -3,6 +3,8 @@ _book/*
 site_libs/*
 *files/*
 *.sublime-workspace
+*.html
+
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
