@@ -10,4 +10,6 @@ Bunlar arasında aşağıdakiler sayılabilir.
 - hızlı prototip oluşturma
 
 
+{{< include ./diagramlar/waterfall.mmd >}}
 
+{{< include ./diagramlar/waterfall-real.mmd >}}
