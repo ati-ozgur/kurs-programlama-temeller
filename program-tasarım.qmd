@@ -46,7 +46,7 @@ Bu yaklaşım özellikle başlangıç programcıları için yararlıdır.
 
 
 Derslerdeki gibi programlarınız için akış şemalarına ve sahte kodlara ihtiyacınız olmayacaktır.
-Ama yazılımlarınız büyüdükçe daha karmaşık yapılara, daha fazla fonksiyon veya mödüle ihtiyacınız ihtiyacınız olacaktır.
+Ama yazılımlarınız büyüdükçe daha karmaşık yapılara, daha fazla fonksiyon veya mödüle ihtiyacınız olacaktır.
 
 Benim açımdan yazdığım kodları hiç bir zaman sahte kod veya akış diagramı olarak düşünmedim.
 Genellikle yazmaya çalıştığım programlama dilinin temel yapılarından çok ilk öğrendiğim programlama dilleri olan basic ve assembler yapıları üzerinden düşündüm.
