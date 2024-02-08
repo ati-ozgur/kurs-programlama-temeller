@@ -1,5 +1,6 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+Programlamaya giriş derslerinde ilk konular işlenecektir.
+[Yapısal programlama](https://tr.wikipedia.org/wiki/Yap%C4%B1sal_programlama), ingilizce: [structured programming](https://en.wikipedia.org/wiki/Structured_programming)) konuları içeriğin daha büyük kısmını oluşturmaktadır.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
