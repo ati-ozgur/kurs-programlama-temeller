@@ -42,8 +42,8 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload rendered directory
-          path: 'rendered'
+          # Upload _book directory
+          path: '_book'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
