@@ -1,0 +1,11 @@
+# Merhaba Dünya
+
+"Merhaba dünya!" programı ekrana basit bir şekilde merhaba dünya (Hello world!) yazan bir programdır.
+Ünlü 1978 yılı C programlama dili @Kernighan1991C kitabında kullanılması ile neredeyse bir gelenek olarak ilk yazılın program olmuştur.
+Çoğu programlama dilinde basit bir uygulama olarak aşağıdakileri doğrulamak için kullanılır.
+
+1. Programlama dilinin bilgisayarda kurulumu çalışıyor mu?
+2. Programlama dilinin temel yapısını gösterme
+
+
+
