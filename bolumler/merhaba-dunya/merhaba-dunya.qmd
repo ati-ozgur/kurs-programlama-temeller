@@ -33,3 +33,5 @@ Eğer dosya ismini değiştirmek isterseniz aşağıdaki komutu çalıştırabil
 
 
 
+
+https://stackoverflow.com/questions/2849010/output-unicode-to-console-using-c-in-windows
