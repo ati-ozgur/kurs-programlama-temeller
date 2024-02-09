@@ -16,7 +16,7 @@ book:
         - program-tasarım.qmd
         - sahte-kod.qmd
         - akis-diagramlari.qmd
-        - bolumler/merhaba-dunya.qmd
+        - bolumler/merhaba-dunya/merhaba-dunya.qmd
     - summary.qmd
     - references.qmd
 

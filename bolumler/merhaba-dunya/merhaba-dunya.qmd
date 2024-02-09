@@ -1,0 +1,30 @@
+# Merhaba Dünya
+
+"Merhaba dünya!" programı ekrana basit bir şekilde merhaba dünya (Hello world!) yazan bir programdır.
+Ünlü 1978 yılı C programlama dili @Kernighan1991C kitabında kullanılması ile neredeyse bir gelenek olarak ilk yazılın program olmuştur.
+Çoğu programlama dilinde basit bir uygulama olarak aşağıdakileri doğrulamak için kullanılır.
+
+1. Programlama dilinin bilgisayarda kurulumu çalışıyor mu?
+2. Programlama dilinin temel yapısını gösterme
+
+
+## Merhaba Dünya C++
+
+yeni bir yazı dosyası açarak, merhaba_dunya.cpp adı ile kayıt edin.
+
+Aşağıdaki C++ kodunu yazarak tekrar kaydedin.
+
+```cpp
+{{< include ./kaynak-kod-cpp/merhaba_dunya.cpp >}}
+```
+
+arkasından komut satırında bu dosyayı kayıt ettiğiniz dizinde g++ kullanarak, bu c++ kodunu derleyiniz.
+
+    g++ merhaba_dunya.cpp
+
+Bunun arkasından aynı dizinde a.exe isminde bir dosya oluşturulacaktır.
+Bu dosyayı çalıştırınca komut satırında Merhaba dünya yazısını görmelisiniz.
+
+
+
+
