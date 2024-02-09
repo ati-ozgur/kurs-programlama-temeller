@@ -7,14 +7,16 @@ book:
   date: today
   date-format: "YYYY-MM-DD"
   cover-image: cover.png
-  chapters:
+  chapters:  
     - index.qmd
     - intro.qmd
-    - yazilim-gelistirme-yasam-dongusu.qmd
-    - program-tasarım.qmd
-    - sahte-kod.qmd
-    - akis-diagramlari.qmd
-    - bolumler/merhaba-dunya.qmd
+    - part: "Giriş"
+      chapters:  
+        - yazilim-gelistirme-yasam-dongusu.qmd
+        - program-tasarım.qmd
+        - sahte-kod.qmd
+        - akis-diagramlari.qmd
+        - bolumler/merhaba-dunya.qmd
     - summary.qmd
     - references.qmd
 
