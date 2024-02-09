@@ -26,5 +26,10 @@ Bunun arkasından aynı dizinde a.exe isminde bir dosya oluşturulacaktır.
 Bu dosyayı çalıştırınca komut satırında Merhaba dünya yazısını görmelisiniz.
 
 
+Eğer dosya ismini değiştirmek isterseniz aşağıdaki komutu çalıştırabilirsiniz.
+
+
+    g++ merhaba_dunya.cpp -o merhaba_dunya.exe
+
 
 
