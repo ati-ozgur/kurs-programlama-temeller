@@ -8,4 +8,5 @@ See @knuth84 for additional discussion of literate programming.
 
 ## referans kitaplar
 
-- https://en.wikibooks.org/wiki/C%2B%2B_Programming/Examples/Hello_world
+- https://en.wikibooks.org/wiki/C%2B%2B_Programming
+- https://en.wikibooks.org/wiki/Programming_Fundamentals
