@@ -1,12 +1,12 @@
 # Giriş
 
-This is a book created from markdown and executable code.
-
-See @knuth84 for additional discussion of literate programming.
+Kitap aşağıdaki referans kitaplardan yararlanılarak yazılmıştır.
 
 
 
-## referans kitaplar
 
-- https://en.wikibooks.org/wiki/C%2B%2B_Programming
-- https://en.wikibooks.org/wiki/Programming_Fundamentals
+
+## Referans kitaplar
+
+- [C++ Programming](https://en.wikibooks.org/wiki/C%2B%2B_Programming)
+- [Programming Fundamentals](https://en.wikibooks.org/wiki/Programming_Fundamentals)
