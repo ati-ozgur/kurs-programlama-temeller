@@ -8,7 +8,7 @@ book:
   date-format: "YYYY-MM-DD"
   cover-image: cover.png
   chapters:  
-    - onsoz.qmd
+    - index.qmd
     - part: "Giriş"
       chapters:  
         - bolumler/giris/giris.qmd
@@ -17,7 +17,6 @@ book:
         - bolumler/sahte-kod/sahte-kod.qmd
         - bolumler/akis-diagramlari/akis-diagramlari.qmd
         - bolumler/merhaba-dunya/merhaba-dunya.qmd
-    - summary.qmd
     - references.qmd
 
 bibliography: references.bib
