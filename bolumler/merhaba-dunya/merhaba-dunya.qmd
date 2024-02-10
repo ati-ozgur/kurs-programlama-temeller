@@ -8,5 +8,14 @@
 2. Programlama dilinin temel yapısını gösterme
 
 
+Aşağıda merhaba dünya programının sahte kod versiyonun görebilirizsiniz.
+
+```
+Function Main
+    Output "Merhaba dünya!"
+End
+```
+
+
 {{< include merhaba-dunya-cpp.qmd >}}
 
