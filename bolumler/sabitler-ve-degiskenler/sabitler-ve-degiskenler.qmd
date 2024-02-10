@@ -1,0 +1,50 @@
+# Sabitler ve Değişkenler
+
+
+Bir sabit, program çalışması sırasında değiştirilemeyen bir değerdir.
+Örneğin pi sayısını sabit olarak tanımlayarak bu sayı üstünden hesap yapabiliriz.
+Programlama dilleri sabitlerin değiştirilmesini engelledikleri için, hata yaparak veya isteyerek bile tanımladığımız bir sabiti programın çalışması sırasında değiştiremeyiz.
+
+Sabitleri değişkenler ile karşılaştırırsak, değişkenleri değeri program çalışması sırasında değişebilir.
+Zaten bu yüzden isim olarak değişken kullanılmıştır.
+
+
+## sabitler
+
+Bir sabit, program çalışması sırasında değeri değişmeyen bir veri öğesidir.
+İki tür sabit tanımlanır.
+
+- kelimesi kelimesine sabit (literal constant)
+- tanımlanmış sabit
+
+Kelimesi kelimesine sabitler program sırasında ihtiyaç duyduğumuzda yazdığımız sabitlerdir.
+Örneğin merhaba dünya programında betik işaretleri "" arasında yazdığımız aşağıdaki tanım bir kelimesi kelimesine sabittir.
+
+    "Merhaba dünya!"
+
+Aynı şekilde ihtiyaç duyduğumuz zamanlarda yazdığımız sayılar ve diğer değerlerde kelimesi kelimesine sabitlere örnektir.
+Örnekler:
+
+    21
+    12.34
+    'A'
+    "Merhaba Dünya!"
+    "Atilla"
+    false
+    null
+
+
+Bu sabitler haricinde sabitleri isim vererek, tanımlanmış sabit oluşturabiliriz.
+Bir çok programlama dilinde bu tür sabitler tümüyle büyük harfler kullanılarak yazılırlar.
+
+| Programlama Dili | Tanımlanmış Sabit Örnek           |
+|------------------|-----------------------------------|
+| C                | #define PI 3.14159                |
+| C#               | const double PI = 3.14159;        |
+| C++              | #define PI 3.14159                |
+| C++              | const double PI = 3.14159;        |
+| go               | const PI float64 = 3.14159        |
+| java             | static final double PI = 3.14159; |
+| javascript       | const PI = 3.14159;               |
+| python           | PI = 3.14159                      |
+| swift            | let pi = 3.14159                  |

@@ -17,6 +17,7 @@ book:
         - bolumler/sahte-kod/sahte-kod.qmd
         - bolumler/akis-diagramlari/akis-diagramlari.qmd
         - bolumler/merhaba-dunya/merhaba-dunya.qmd
+        - bolumler/sabitler-ve-degiskenler/sabitler-ve-degiskenler.qmd
     - references.qmd
 
 bibliography: references.bib
