@@ -14,15 +14,15 @@ Zaten bu yüzden isim olarak değişken kullanılmıştır.
 Bir sabit, program çalışması sırasında değeri değişmeyen bir veri öğesidir.
 İki tür sabit tanımlanır.
 
-- kelimesi kelimesine sabit (literal constant)
+- kelime ve sayı olarak sabitler (literals veya literal constant)
 - tanımlanmış sabit
 
-Kelimesi kelimesine sabitler program sırasında ihtiyaç duyduğumuzda yazdığımız sabitlerdir.
-Örneğin merhaba dünya programında betik işaretleri "" arasında yazdığımız aşağıdaki tanım bir kelimesi kelimesine sabittir.
+Kelimeler ve sayılar olarak sabitler  program sırasında ihtiyaç duyduğumuzda yazdığımız sabitlerdir.
+Örneğin merhaba dünya programında betik işaretleri "" arasında yazdığımız aşağıdaki tanım bir kelimeler sabittir.
 
     "Merhaba dünya!"
 
-Aynı şekilde ihtiyaç duyduğumuz zamanlarda yazdığımız sayılar ve diğer değerlerde kelimesi kelimesine sabitlere örnektir.
+Aynı şekilde ihtiyaç duyduğumuz zamanlarda yazdığımız sayılar ve diğer değerlerde ya kelime ya sayı sabitlere örnektir.
 Örnekler:
 
     21
@@ -48,3 +48,8 @@ Bir çok programlama dilinde bu tür sabitler tümüyle büyük harfler kullanı
 | javascript       | const PI = 3.14159;               |
 | python           | PI = 3.14159                      |
 | swift            | let pi = 3.14159                  |
+
+
+Not: python bir anahtar kelime kullanarak sabit tanımı yapmamaktadır.
+Bundan dolayı tanımlanan PI değeri aslında bir değişkendir ve değiştirebilir.
+İsimlendirme konvansiyonu olarak hep büyük harf kullanımı, programcıya bu değerin bir sabit olduğunu ve onu değiştirmemesi gerektiğini söylemektedir.
