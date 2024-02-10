@@ -1,0 +1,27 @@
+## Merhaba Dünya C++
+
+yeni bir yazı dosyası açarak, merhaba_dunya.cpp adı ile kayıt edin.
+
+Aşağıdaki C++ kodunu yazarak tekrar kaydedin.
+
+```cpp
+{{< include ./kaynak-kod-cpp/merhaba_dunya.cpp >}}
+```
+
+arkasından komut satırında bu dosyayı kayıt ettiğiniz dizinde g++ kullanarak, bu c++ kodunu derleyiniz.
+
+    g++ merhaba_dunya.cpp
+
+Bunun arkasından aynı dizinde a.exe isminde bir dosya oluşturulacaktır.
+Bu dosyayı çalıştırınca komut satırında Merhaba dünya yazısını görmelisiniz.
+
+
+Eğer dosya ismini değiştirmek isterseniz aşağıdaki komutu çalıştırabilirsiniz.
+
+
+    g++ merhaba_dunya.cpp -o merhaba_dunya.exe
+
+
+
+
+https://stackoverflow.com/questions/2849010/output-unicode-to-console-using-c-in-windows
