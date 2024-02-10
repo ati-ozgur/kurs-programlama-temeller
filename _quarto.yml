@@ -14,7 +14,7 @@ book:
         - bolumler/giris/giris.qmd
         - bolumler/yazilim-gelistirme-yasam-dongusu/yazilim-gelistirme-yasam-dongusu.qmd
         - bolumler/program-tasarim/program-tasarim.qmd
-        - sahte-kod.qmd
+        - bolumler/sahte-kod/sahte-kod.qmd
         - bolumler/akis-diagramlari/akis-diagramlari.qmd
         - bolumler/merhaba-dunya/merhaba-dunya.qmd
     - summary.qmd
