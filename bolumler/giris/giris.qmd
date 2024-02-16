@@ -1,6 +1,17 @@
 # Giriş
 
+Bu kitap programlamaya giriş niteliğindedir. 
+Kitabın içeriği kapsamlı değildir. 
+Her konuyu anlatmaya çalışmak yerine yalnızca yeni başlayanlar için uygun içerikler vardır. 
+Programlama kolay bir iş değildir ancak her beceri gibi öğrenilebilir ve pratik yaptıkça gelişir bir yetenektir.
 
+
+
+
+{{< include ./programlama-zordur.qmd >}}
+
+
+## İçerik
 
 Bu kursun içeriği aşağıdaki kitap ve kurslar temel alınarak hazırlanmıştır.
 Birebir tercume yerine aşağıdaki içeriklerden esinlenilmiştir.

@@ -1,0 +1,33 @@
+## Programlama öğrenmenin kolay olmaması
+
+Programlama öğrenme kolayca yapılacak bir şey değildir.
+Her öğrenme gibi zaman isteyen, çalışma gerektiren bir uğraşıdır.
+Edsger W. Dikstra’nın 1972 yılında ACM Turing Ödül Konuşması’nda Mütevazi Programcı (The Humble Programmer)  @Dijkstra1972Humble adıyla yaptığı mükemmel konuşmasının son kısmından alıntı yapmak istiyorum. 
+
+
+
+> Bu konuşmadan çıkarılacak pek çok ders var, burada üzerinde durmak istediğim kısım ise "Programlamaya zorluğunu tam anlamıyla takdir ederek yaklaşırsak, mütevazi ve zarif programlama dillerini kullanırsak, insan zihninin içsel kısıtlamalarına saygı duyar ve programlamaya Mütevazi Programcılar olarak yaklaşırsak" bu işi çok daha iyi yapabiliriz. 
+
+
+
+
+1972 yılında olduğu gibi, bu paragrafları yazdığım 2024 yılında, 52 sene sonra, programlama hala zor bir iştir.
+Ama son derece tatmin edici ve ödüllendirici bir uğraştır.
+Bu kitabı okuduğunuza göre programlamayı öğrenmek istediğinizi düşünüyorum.
+Bir bilgisayar mühendisi olmayacaksanız bile programlamayı öğrenmenizi tavsiye ederim.
+Çünkü programlama hemen hemen her disiplinin ihtiyaç duyduğu temel bilgiler arasına girmektedir.
+
+
+Aynı konuşmadan @Dijkstra1972Humble başka bir alıntı:  
+
+> Bu mücadele diğer bir deyişle programlamayla olan karşılaşma, o kadar eşsiz ki bu özgün deneyim bizlere hakkımızda pek çok şey öğretebilir. 
+> Tasarım ve yaratım süreci üzerine olan anlayışımızı derinleştirmeli ve bizlere düşüncelerimizi organize etme yeteneğimizi geliştirmeli. 
+> Şayet durum bu değilse, kanımca, bilgisayarları haketmiyoruz demektir.
+
+:::{.callout-tip}
+Çeviriler için kuzenim Bora Kas'a teşekkür ederim.
+:::
+
+
+
+
