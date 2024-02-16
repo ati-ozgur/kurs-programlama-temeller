@@ -14,9 +14,10 @@ Aşağıda kısa bir sahte kod örneği görebilirsiniz.
 \caption{Doğum tarihinden yaş bulma}
 \begin{algorithmic}
 
-\REQUIRE Doğum tarihini kullanıcıdan al
-\STATE Yaş = Güncel Yıl - Doğum tarihi
-\PRINT Yaş
+
+\Require Doğum yılını kullanıcıdan al
+\State Yaş = Güncel Yıl - Doğum yılı
+\Print Yaş
 
 
 \end{algorithmic}
