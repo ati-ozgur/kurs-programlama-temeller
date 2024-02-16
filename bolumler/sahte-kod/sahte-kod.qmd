@@ -1,1 +1,12 @@
-# Sahte kod
+# Sahte kod (Pseudo code)
+
+
+Sahte kod (Pseudo code) bir programın nasıl çalıştığını üst düzeyde gösteren tanımlardır.
+Sahte kod programla dillerinde olan bir çok yapıyı (if,loop) gibi içerir ama katı kurallar yerine programın yada algoritmanın nasıl çalıştığını anlatmayı hedefler.
+Sahte kod ingilizce veya hedef okuyucunun dilinde programın nasıl çalıştığını anlatmayı hedefler; bunda dolayı, bir programlama dilinde olan katı anahtar kelimeler yerine doğal gelecek kelimeleri seçebilir.
+Aşağıda kısa bir sahte kod örneği görebilirsiniz.
+
+
+
+
+
