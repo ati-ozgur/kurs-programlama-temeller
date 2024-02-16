@@ -27,6 +27,9 @@ callout-appearance: simple
 format:
   html:
     theme: cosmo
+    code-line-numbers: true    
+    code-fold: true
+    code-tools: true
   pdf:
     documentclass: scrreprt
 
