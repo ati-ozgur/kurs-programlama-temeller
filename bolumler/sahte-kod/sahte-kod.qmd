@@ -23,6 +23,7 @@ Aşağıda kısa bir sahte kod örneği görebilirsiniz.
 ```
 
 
+Genel olarak sahte kod yapılarının varlığının bilinmesinin gerekli olduğunu düşünmeme rağmen program örneklerinin sahte kod ile yazılmasının çokta gerekli olduğunu düşünmüyorum.
 
 
 
