@@ -20,18 +20,62 @@ book:
         - bolumler/sabitler-ve-degiskenler/sabitler-ve-degiskenler.qmd
     - references.qmd
 
-bibliography: references.bib
-csl: ieee.csl
-callout-appearance: simple
+
+
+filters:
+  - pseudocode
+
+link-citations: true
+
 
 format:
   html:
     theme: cosmo
     code-line-numbers: true    
-    code-fold: true
-    code-tools: true
+    code-fold: false
+    code-tools: false
+    include-in-header:
+      text: |
+        <script>
+        MathJax = {
+          loader: {
+            load: ['[tex]/boldsymbol']
+          },
+          tex: {
+            tags: "all",
+            inlineMath: [['$','$'], ['\\(','\\)']],
+            displayMath: [['$$','$$'], ['\\[','\\]']],
+            processEscapes: true,
+            processEnvironments: true,
+            packages: {
+              '[+]': ['boldsymbol']
+            }
+          }
+        };
+        </script>
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
   pdf:
     documentclass: scrreprt
+    include-in-header:
+      text: |
+        \usepackage{xeCJK}
+    include-before-body:
+      text: |
+        \renewcommand{\Return}{\State \textbf{return}~}
+        \newcommand{\Print}{\State \textbf{print}~}
+        \newcommand{\Break}{\State \textbf{break}}
+        \newcommand{\Continue}{\State \textbf{continue}}
+        \newcommand{\True}{\textbf{true}}
+        \newcommand{\False}{\textbf{false}}
+        \renewcommand{\And}{\textbf{and}~}
+        \newcommand{\Or}{\textbf{or}~}
+        \renewcommand{\Not}{\textbf{not}~}
+        \newcommand{\To}{\textbf{to}~}
+        \newcommand{\DownTo}{\textbf{downto}~}
+        \numberwithin{algorithm}{chapter}
+    pdf-engine: xelatex
+    toc-depth: 2
 
-
-
+bibliography: references.bib
+csl: ieee.csl
+callout-appearance: simple

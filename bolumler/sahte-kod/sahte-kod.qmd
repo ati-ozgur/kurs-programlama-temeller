@@ -7,6 +7,22 @@ Sahte kod ingilizce veya hedef okuyucunun dilinde programın nasıl çalıştı�
 Aşağıda kısa bir sahte kod örneği görebilirsiniz.
 
 
+```pseudocode
+
+\begin{algorithm}
+\caption{Doğum tarihinden yaş bulma}
+\begin{algorithmic}
+
+\REQUIRE Doğum tarihini al
+\STATE Yaş = Güncel Yıl - Doğum tarihi
+\PRINT Yaş
+
+
+\end{algorithmic}
+\end{algorithm}
+```
+
+
 
 
 
