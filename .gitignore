@@ -1,3 +1,9 @@
+# c/c++ files
+*.obj
+*.exe
+*.dll
+
+
 /.quarto/
 _book/*
 site_libs/*
