@@ -15,7 +15,7 @@ book:
         - bolumler/yazilim-gelistirme-yasam-dongusu/yazilim-gelistirme-yasam-dongusu.qmd
         - bolumler/program-tasarim/program-tasarim.qmd
         - bolumler/sahte-kod/sahte-kod.qmd
-        - bolumler/akis-diagramlari/akis-diagramlari.qmd
+        - bolumler/akis-cizimleri/akis-cizimleri.qmd
         - bolumler/merhaba-dunya/merhaba-dunya.qmd
         - bolumler/sabitler-ve-degiskenler/sabitler-ve-degiskenler.qmd
     - references.qmd
