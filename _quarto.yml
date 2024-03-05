@@ -21,6 +21,8 @@ book:
         - bolumler/kurulum/kurulum.qmd
         - bolumler/komut-satiri/komut-satiri.qmd
         - bolumler/programcinin-metin-duzenleyicisi/programcinin-metin-duzenleyicisi.qmd
+        - bolumler/girdi-cikti/girdi-cikti.qmd
+        
         - bolumler/sabitler-ve-degiskenler/sabitler-ve-degiskenler.qmd
     - references.qmd
 
