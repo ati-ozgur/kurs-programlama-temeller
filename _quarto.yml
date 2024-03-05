@@ -19,6 +19,8 @@ book:
         - bolumler/merhaba-dunya/merhaba-dunya.qmd
         - bolumler/cevrimici-kod-yazma/cevrimici-kod-yazma.qmd
         - bolumler/kurulum/kurulum.qmd
+        - bolumler/komut-satiri/komut-satiri.qmd
+        - bolumler/programcinin-metin-duzenleyicisi/programcinin-metin-duzenleyicisi.qmd
         - bolumler/sabitler-ve-degiskenler/sabitler-ve-degiskenler.qmd
     - references.qmd
 
