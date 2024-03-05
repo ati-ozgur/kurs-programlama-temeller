@@ -1,4 +1,4 @@
-# akış diagramları
+# Akış Çizimleri
 
 
-TODO akış diagramlarını yaz.
+TODO akış çizimleri yaz.
