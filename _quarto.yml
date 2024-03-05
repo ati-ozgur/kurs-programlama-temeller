@@ -23,6 +23,7 @@ book:
         - bolumler/programcinin-metin-duzenleyicisi/programcinin-metin-duzenleyicisi.qmd
         - bolumler/girdi-cikti/girdi-cikti.qmd
         - bolumler/hata-ayiklama/hata-ayiklama.qmd
+        - bolumler/butunlesik-gelistirme-ortami/butunlesik-gelistirme-ortami.qmd        
         - bolumler/sabitler-ve-degiskenler/sabitler-ve-degiskenler.qmd
     - references.qmd
 
