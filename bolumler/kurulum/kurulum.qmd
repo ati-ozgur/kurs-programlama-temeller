@@ -1,0 +1,13 @@
+# Kurulumlar
+
+
+## Python kurulum
+
+
+## Java kurulum
+
+
+## C# kurulum
+
+TODO diğerleri
+
