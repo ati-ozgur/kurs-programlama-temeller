@@ -17,6 +17,7 @@ book:
         - bolumler/sahte-kod/sahte-kod.qmd
         - bolumler/akis-cizimleri/akis-cizimleri.qmd
         - bolumler/merhaba-dunya/merhaba-dunya.qmd
+        - bolumler/cevrimici-kod-yazma/cevrimici-kod-yazma.qmd
         - bolumler/sabitler-ve-degiskenler/sabitler-ve-degiskenler.qmd
     - references.qmd
 
