@@ -4,7 +4,7 @@
 
 Aşağıdaki Kod listesi çalıştırıldığına çıktısı ne olur?
 
-```{.csharp include="UzaktanKumandaSorusu1.cs"}
+```{.csharp include="../lab-csharp/UzaktanKumanda/UzaktanKumandaSorusu1.cs"}
 ```
 
 ## Lab C#: Uzaktan Kumanda (pointer) 2

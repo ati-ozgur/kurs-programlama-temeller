@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ati_o\\Projects\\my-courses\\kurs-programlama-temeller\\bolumler\\lab-csharp\\lab-csharp.csproj",
-      "projectName": "lab-csharp",
-      "projectPath": "C:\\Users\\ati_o\\Projects\\my-courses\\kurs-programlama-temeller\\bolumler\\lab-csharp\\lab-csharp.csproj",
+      "projectUniqueName": "C:\\Users\\ati_o\\Projects\\my-courses\\kurs-programlama-temeller\\bolumler\\lab-csharp\\lab.csharp.csproj",
+      "projectName": "lab.csharp",
+      "projectPath": "C:\\Users\\ati_o\\Projects\\my-courses\\kurs-programlama-temeller\\bolumler\\lab-csharp\\lab.csharp.csproj",
       "packagesPath": "C:\\Users\\ati_o\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ati_o\\Projects\\my-courses\\kurs-programlama-temeller\\bolumler\\lab-csharp\\obj\\",
       "projectStyle": "PackageReference",
