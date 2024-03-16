@@ -1,13 +1,15 @@
-public class Program
+namespace lab.csharp.UzaktanKumanda;
+
+public class UzaktanKumandaSorusu1
 {
     int Deger = 5;
-    public static void main()
+    public static void Main1()
     {
-        Program[] dizi = new Program[5];
+        UzaktanKumandaSorusu1[] dizi = new UzaktanKumandaSorusu1[5];
         int x = 0;
         while(x < 3)
         {
-            dizi[x] = new Program();
+            dizi[x] = new UzaktanKumandaSorusu1();
             dizi[x].Deger = x;
             x = x + 1;
         }
@@ -20,16 +22,16 @@ public class Program
         dizi[3] = dizi[2];
         dizi[2] = dizi[0];
         
-        for(int i=0;i<dizi.length;i++)
+        for(int i=0;i<dizi.Length;i++)
         {
-            Program a = dizi[i];
+            UzaktanKumandaSorusu1 a = dizi[i];
             if (a == null)
             {
-                System.out.println("NULL");
+                Console.WriteLine("NULL");
             }
             else
             {
-                System.out.println(a.Deger);
+                Console.WriteLine(a.Deger);
             }
         }
         

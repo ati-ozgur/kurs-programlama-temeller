@@ -4,18 +4,18 @@ public class Program
     public static void main()
     {
         Program[] dizi = new Program[10];
-        for(int i=0;i<dizi.length;i++)
+        for(int i=0;i<dizi.Length;i++)
         {
             dizi[i] = new Program();
             dizi[i].Deger = i;
         }
         
-        for(int i=1;i<dizi.length;i = i+2)
+        for(int i=1;i<dizi.Length;i = i+2)
         {
             dizi[i] = new Program();
             dizi[i].Deger = i * 2;
         }
-        for(int i=2;i<dizi.length;i = i+3)
+        for(int i=2;i<dizi.Length;i = i+3)
         {
             dizi[i] = new Program();
             dizi[i].Deger = i * 3;
@@ -27,16 +27,16 @@ public class Program
         dizi[2] = dizi[6];
         dizi[4] = dizi[9];
         
-        for(int i=0;i<dizi.length;i++)
+        for(int i=0;i<dizi.Length;i++)
         {
             Program a = dizi[i];
             if (a == null)
             {
-                System.out.println("NULL");
+                Console.WriteLine("NULL");
             }
             else
             {
-                System.out.println(a.Deger);
+                Console.WriteLine(a.Deger);
             }
         }
         
