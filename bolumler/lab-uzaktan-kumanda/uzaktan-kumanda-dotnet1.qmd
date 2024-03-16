@@ -1,4 +1,13 @@
-# Lab C#: Uzaktan Kumanda (pointer) 1 
+# Lab C#: Uzaktan Kumanda (pointer) Soruları 
+
+## Lab C#: Uzaktan Kumanda (pointer) 1 
+
+Aşağıdaki Kod listesi çalıştırıldığına çıktısı ne olur?
+
+```{.csharp include="UzaktanKumandaSorusu1.cs"}
+```
+
+## Lab C#: Uzaktan Kumanda (pointer) 2
 
 Aşağıdaki Kod listesi çalıştırıldığına çıktısı ne olur?
 
