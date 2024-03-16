@@ -11,5 +11,5 @@ Aşağıdaki Kod listesi çalıştırıldığına çıktısı ne olur?
 
 Aşağıdaki Kod listesi çalıştırıldığına çıktısı ne olur?
 
-```{.csharp include="UzaktanKumandaSorusu.cs"}
+```{.csharp include="../lab-csharp/UzaktanKumanda/UzaktanKumandaSorusu2.cs"}
 ```

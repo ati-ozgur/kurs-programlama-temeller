@@ -1,23 +1,23 @@
-public class Program
+public class UzaktanKumandaSorusu2
 {
     int Deger = 5;
-    public static void main()
+    public static void Main1()
     {
-        Program[] dizi = new Program[10];
+        UzaktanKumandaSorusu2[] dizi = new UzaktanKumandaSorusu2[10];
         for(int i=0;i<dizi.Length;i++)
         {
-            dizi[i] = new Program();
+            dizi[i] = new UzaktanKumandaSorusu2();
             dizi[i].Deger = i;
         }
         
         for(int i=1;i<dizi.Length;i = i+2)
         {
-            dizi[i] = new Program();
+            dizi[i] = new UzaktanKumandaSorusu2();
             dizi[i].Deger = i * 2;
         }
         for(int i=2;i<dizi.Length;i = i+3)
         {
-            dizi[i] = new Program();
+            dizi[i] = new UzaktanKumandaSorusu2();
             dizi[i].Deger = i * 3;
         }
         
@@ -29,7 +29,7 @@ public class Program
         
         for(int i=0;i<dizi.Length;i++)
         {
-            Program a = dizi[i];
+            UzaktanKumandaSorusu2 a = dizi[i];
             if (a == null)
             {
                 Console.WriteLine("NULL");
