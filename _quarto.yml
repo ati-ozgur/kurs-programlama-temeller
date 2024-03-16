@@ -25,12 +25,14 @@ book:
         - bolumler/hata-ayiklama/hata-ayiklama.qmd
         - bolumler/butunlesik-gelistirme-ortami/butunlesik-gelistirme-ortami.qmd        
         - bolumler/sabitler-ve-degiskenler/sabitler-ve-degiskenler.qmd
+        - bolumler/lab-uzaktan-kumanda/uzaktan-kumanda-dotnet1.qmd
     - references.qmd
 
 
 
 filters:
   - pseudocode
+  - include-code-files  
 
 link-citations: true
 
