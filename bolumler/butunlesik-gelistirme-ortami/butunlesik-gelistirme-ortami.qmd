@@ -2,4 +2,5 @@
 
 Integrated Development Environment (IDE)
 
-TODO
+vscode bir çok dili desteklediği ve derece basit olduğu için kullanılacaktır.
+
